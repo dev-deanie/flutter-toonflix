@@ -1,4 +1,4 @@
-## 👍 Recommend JSON SETTING
+## 👍 Recommend Json setting
 
 ```json
 "eslint.alwaysShowStatus": true,
